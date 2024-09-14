@@ -45,3 +45,8 @@ h1{
     max-width: 40%;
     color: white;
 }
+img:hover{
+ 
+    width: 700px;
+    height: 400px;
+}
